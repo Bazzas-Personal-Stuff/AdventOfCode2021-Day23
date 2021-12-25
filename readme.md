@@ -12,4 +12,4 @@ but it does the job.
 - **R:** Reset the game. Modified cells keep their new values.
 - **P:** Show replay of your moves
 
-This implementation does not enforce all of the game's movement rules. Detailed rules can be found here: [https://adventofcode.com/2021/day/23]
+This implementation does not enforce all of the game's movement rules. Detailed rules can be found here: [https://adventofcode.com/2021/day/23]()
